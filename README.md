@@ -1,18 +1,15 @@
-# Quartz v4
+Advent of Code 2024 - Go Solutions 🦾🎄
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to my repository for Advent of Code 2024! This is where I’ll be sharing my solutions, insights, and approaches to each day's coding challenges, all implemented in Go (Golang).
+🚀 About the Project
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Advent of Code is an annual programming event where participants solve daily coding puzzles throughout December. It’s a great way to:
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+    Sharpen your problem-solving skills.
+    Learn new programming concepts.
+    Compete with fellow developers worldwide.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+This repository serves as:
 
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+    A collection of my daily solutions.
+    A resource for anyone learning Go or looking for alternative approaches to the challenges.
