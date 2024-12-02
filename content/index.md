@@ -26,6 +26,7 @@ If you're thinking of joining Advent of Code, hop on to my **private leaderboard
 I’ll also be posting detailed write-ups for each day’s challenge, explaining my thought process and the Go code behind it. Stay tuned!
 
 - [[Day 1]]
+- [[Day 2]]
 
 ---
 
