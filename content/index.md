@@ -27,6 +27,7 @@ I’ll also be posting detailed write-ups for each day’s challenge, explaining
 
 - [[Day 1]]
 - [[Day 2]]
+- [[Day 3]]
 
 ---
 
