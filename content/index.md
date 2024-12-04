@@ -1,10 +1,6 @@
 ---
 title: Welcome to Hawkaii's AOC blog
 ---
-Here's an enhanced version of your markdown blog:
-
----
-
 # Advent of Code 2024 in Go 🦾
 
 This year, I am excited to participate in [Advent of Code 2024](https://adventofcode.com/2024) using **Go**! 🚀 My goal is to not only solve the challenges but also document my solutions and insights to help myself and others in the community. 
